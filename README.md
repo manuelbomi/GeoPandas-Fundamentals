@@ -263,5 +263,6 @@ Join field polygons with irrigation district boundaries. For each field, calcula
 
 ---
 
-*Built by Emmanuel Oyekanlu — Principal Data Engineer*
-*For questions, see the individual script docstrings which contain detailed inline documentation.*
+*Built by Emmanuel Oyekanlu — Principal Solution Engineer*
+
+**For questions, see the individual script docstrings which contain detailed inline documentation.**
