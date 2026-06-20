@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "name": "salinas_valley_fields",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "field_001",
+      "properties": {
+        "field_id": "SVF-001",
+        "crop_type": "lettuce",
+        "area_ha": 14.2,
+        "soil_type": "sandy_loam",
+        "farmer": "Salinas Fresh Farms",
+        "irrigated": true,
+        "planting_date": "2024-03-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.6450, 36.6200],
+            [-121.6380, 36.6200],
+            [-121.6380, 36.6260],
+            [-121.6450, 36.6260],
+            [-121.6450, 36.6200]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "field_002",
+      "properties": {
+        "field_id": "SVF-002",
+        "crop_type": "strawberry",
+        "area_ha": 8.7,
+        "soil_type": "loam",
+        "farmer": "Coastal Berry Co",
+        "irrigated": true,
+        "planting_date": "2024-01-20"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.6370, 36.6200],
+            [-121.6310, 36.6200],
+            [-121.6310, 36.6250],
+            [-121.6370, 36.6250],
+            [-121.6370, 36.6200]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "field_003",
+      "properties": {
+        "field_id": "SVF-003",
+        "crop_type": "broccoli",
+        "area_ha": 21.5,
+        "soil_type": "clay_loam",
+        "farmer": "Monterey Greens LLC",
+        "irrigated": true,
+        "planting_date": "2024-02-10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.6300, 36.6150],
+            [-121.6200, 36.6150],
+            [-121.6200, 36.6250],
+            [-121.6300, 36.6250],
+            [-121.6300, 36.6150]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "field_004",
+      "properties": {
+        "field_id": "SVF-004",
+        "crop_type": "spinach",
+        "area_ha": 6.3,
+        "soil_type": "sandy_loam",
+        "farmer": "Salinas Fresh Farms",
+        "irrigated": false,
+        "planting_date": "2024-04-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.6450, 36.6100],
+            [-121.6390, 36.6100],
+            [-121.6390, 36.6145],
+            [-121.6450, 36.6145],
+            [-121.6450, 36.6100]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "field_005",
+      "properties": {
+        "field_id": "SVF-005",
+        "crop_type": "celery",
+        "area_ha": 18.0,
+        "soil_type": "silt_loam",
+        "farmer": "Valley Prime Agriculture",
+        "irrigated": true,
+        "planting_date": "2024-03-28"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.6380, 36.6100],
+            [-121.6200, 36.6100],
+            [-121.6200, 36.6145],
+            [-121.6380, 36.6145],
+            [-121.6380, 36.6100]
+          ]
+        ]
+      }
+    }
+  ]
+}
